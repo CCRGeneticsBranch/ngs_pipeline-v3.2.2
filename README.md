@@ -36,10 +36,10 @@ Bioinformatics Tools Listed in [config files](config/config_common.json)
 
 ### DNASeq:
 - QC
-- BWA, Novoalign  
+- BWA  
 - Broad Standard Practices on bwa bam  
-- Haplotype Caller, Platupys, Bam2MPG, MuTect, Strelka  
-- snpEff, Annovar, SIFT, pph2, Custom Annotation  
+- Haplotype Caller, Bam2MPG, MuTect, Strelka  
+- snpEff, Annovar, SIFT, Custom Annotation  
 - Coverage Plot, Circos Plot, Hotspot Coverage Box Plot  
 - Create input format for oncogenomics database (Patient Level)  
 - Make Actionable Classification for Germline and Somatic Mutations   
@@ -59,14 +59,12 @@ Bioinformatics Tools Listed in [config files](config/config_common.json)
 
 ### RNASeq:
 - QC
-- Tophat, STAR
+- STAR
 - Broad Standard Practices on STAR bam
 - fusion-catcher, tophat-fusion, STAR-fusion
-- Cufflinks (ENS and UCSC)
-- Rsubread TPM (ENS, UCSC), Gene, Transcript and Exon Level
-- In-house Exon Expression (ENS and UCSC)
+- RSEM for quantification at Gene, Transcript and Exon Level
 - Haplotype Caller
-- snpEff, Annovar, SIFT, pph2, Custom Annotation
+- snpEff, Annovar, SIFT, Custom Annotation
 - Actionable Fusion classification
 
 ### Patient:
