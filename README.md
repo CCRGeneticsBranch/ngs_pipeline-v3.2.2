@@ -1,4 +1,7 @@
-[![Snakemake](https://img.shields.io/badge/snakemake- >=3.8.0-brightgreen.svg?style=flat-square)](https://snakemake.bitbucket.io)
+> ⚠️ **This repository is no longer maintained and has been archived for reference purposes only..**
+> 
+> For the latest updates and active development, please visit [Oncogenomics_NF_WF](https://github.com/CCRGeneticsBranch/Oncogenomics_NF_WF).
+
 
 ## Introduction
 This is the implementation of [KhanLab](https://ccr.cancer.gov/Genetics-Branch/javed-khan) NGS Pipeline using Snakemake.
