@@ -18,7 +18,6 @@ Bioinformatics Tools Listed in [config files](config/config_common.json)
 ### Following R Packages
 - [OmicCircos](https://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html)
 - [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html)
-- [Rsubread](https://bioconductor.org/packages/release/bioc/html/Rsubread.html)
 - [edgeR](http://bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [limma](http://bioconductor.org/packages/release/bioc/html/limma.html)
 - [optparse](https://cran.r-project.org/web/packages/optparse/index.html)
