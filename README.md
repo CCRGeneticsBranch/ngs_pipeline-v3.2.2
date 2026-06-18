@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.  
+
 > ⚠️ **This repository is no longer maintained and has been archived for reference purposes only..**
 > 
 > For the latest updates and active development, please visit [Oncogenomics_NF_WF](https://github.com/CCRGeneticsBranch/Oncogenomics_NF_WF).
